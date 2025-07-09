@@ -22,7 +22,7 @@ Backend do projeto **NLW Agents** desenvolvido durante o evento NLW (Next Level 
 1. **Clone o repositório**
 ```bash
 git clone https://github.com/HtmLuc/nlw-agents-back-end.git
-cd server
+cd back-end
 ```
 
 2. **Instale as dependências**
