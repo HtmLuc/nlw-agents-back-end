@@ -44,7 +44,7 @@ docker-compose up -d
 
 5. **Execute as migrações**
 ```bash
-pnpm drizzle-kit push
+pnpm drizzle-kit migrate
 ```
 
 6. **Popule o banco com dados iniciais**
